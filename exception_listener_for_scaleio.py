@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import smtplib,paramiko,os,time
 
 
